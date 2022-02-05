@@ -1,0 +1,13 @@
+.CardsWrapper{
+
+    /* background-color: greenyellow; */
+    display: flex;
+    /* align-content: flex-start; */ 
+    flex-wrap: wrap;
+    /* height: 100px; */
+}
+
+.title-wrapper{
+    font-size: 50px;
+    font-family:fantasy;
+}

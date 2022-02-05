@@ -1,0 +1,53 @@
+.Preview{
+  background-color:white;
+  height: 400px;
+  width: 200px;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 70px;
+  position: relative;
+}
+
+.InputCard{
+  display: inline-block;
+  width: fit-content;
+}
+
+.Wrapper{
+  display: flex;
+}
+
+.PreviewButton{
+  margin-left: 10px;
+}
+
+.CardTypeImage{
+  width: 300px;
+}
+
+.CardSuitImage{
+  position: absolute;
+  left:70px;
+  top:120px;
+}
+
+.CardName{
+  position: absolute;
+  left:70px;
+  top:30px;
+  font-size: 30px;
+  text-align: center;
+}
+
+.CardNumber{
+  position: absolute;
+  left:100px;
+  top:230px;
+  font-size: 100px;
+  color:white;
+  text-align: center;
+}
+
+.add-card-button{
+  width: max-content;
+}
